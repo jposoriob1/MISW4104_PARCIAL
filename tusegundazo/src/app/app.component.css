@@ -1,0 +1,14 @@
+.header-container {
+    border-bottom: 2px solid #d3d3d3; /* Línea gris */
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+  }
+  
+  /* .navbar {
+    font-weight: bold;
+  } */
+  
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }

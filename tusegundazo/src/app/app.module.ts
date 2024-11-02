@@ -5,6 +5,7 @@ import { provideHttpClient } from '@angular/common/http';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { VehiculoModule } from './vehiculo/vehiculo.module';
+import { VehiculoComponent } from './vehiculo/vehiculo.component';
 
 
 
